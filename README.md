@@ -5,6 +5,8 @@
 При написании проекта использовались следующие технологии: React, React Hooks, CSS3, Axios (npm-библиотека).
 Погоду получаю по RESTful API с сайта https://openweathermap.org.
 
+Посмотреть проект можно по ссылке: https://exact-time-xi.vercel.app
+
 ## Связаться со мной:
 
 Почта: sdk333.ru@yandex.ru
