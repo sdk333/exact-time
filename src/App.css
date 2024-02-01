@@ -4,7 +4,8 @@
   grid-template-rows: 10vh 10vh 10vh 10vh 10vh 10vh 10vh 10vh 10vh 10vh;
   justify-content: space-between;
   background: rgb(255,243,205);
-  height: 97vh;
+  height: 100vh;
+  width: 100%;
 }
 .Variant2 {
   display: grid;
@@ -12,7 +13,8 @@
   grid-template-rows: 10vh 10vh 10vh 10vh 10vh 10vh 10vh 10vh 10vh 10vh;
   justify-content: space-between;
   background: #323232;
-  height: 97vh;
+  height: 100vh;
+  width: 100%;
 }
 .Variant3 {
   display: grid;
@@ -20,7 +22,8 @@
   grid-template-rows: 10vh 10vh 10vh 10vh 10vh 10vh 10vh 10vh 10vh 10vh;
   justify-content: space-between;
   background: #1F6521;
-  height: 97vh;
+  height: 100vh;
+  width: 100%;
 }
 .Variant4 {
   display: grid;
@@ -28,7 +31,8 @@
   grid-template-rows: 10vh 10vh 10vh 10vh 10vh 10vh 10vh 10vh 10vh 10vh;
   justify-content: space-between;
   background: #DA7B93;
-  height: 97vh;
+  height: 100vh;
+  width: 100%;
 }
 .theme1{
   font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;

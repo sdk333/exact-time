@@ -1,0 +1,133 @@
+@media (max-width: 1175px) {
+    button {
+        font-size: 12px;
+      }
+}
+@media (max-width: 1095px) {
+    button {
+        font-size: 10px;
+      }
+}
+@media (max-width: 861px) {
+    button {
+        font-size: 8px;
+      }
+}
+@media (max-width: 600px) {
+    button {
+        font-size: 8px;
+      }
+    .theme1 {
+        font-size: 46px;
+        grid-column: 3;
+    }
+    .theme2 {
+        font-size: 46px;
+        grid-column: 3;
+    }
+    .theme3 {
+        font-size: 46px;
+        grid-column: 3;
+    }
+    .theme4 {
+        font-size: 46px;
+        grid-column: 3;
+    }
+}
+@media (max-width: 480px) {
+    .Weather1 {
+        font-size: 8px;
+        grid-column: 1;
+        grid-row: 1;
+      }
+    .Weather2 {
+        font-size: 8px;
+        grid-column: 5;
+        grid-row: 1;
+      }
+    .Weather3 {
+        font-size: 8px;
+        grid-column: 3;
+        grid-row: 3;
+      }
+    button {
+        font-size: 8px;
+      }
+    .theme1 {
+        font-size: 42px;
+    }
+    .theme2 {
+        font-size: 42px;
+    }
+    .theme3 {
+        font-size: 42px;
+    }
+    .theme4 {
+        font-size: 42px;
+    }
+    .but1{
+        grid-row: 8;
+    }
+    .but2{
+        grid-row: 8;
+    }
+    .but3{
+        grid-row: 8;
+    }
+    .but4{
+        grid-row: 8;
+    }
+    .but2_1{
+        grid-row: 8;
+    }
+    .but3_1{
+        grid-row: 8;
+    }
+    .but4_1{
+        grid-row: 8;
+    }
+    .but1_2{
+        grid-row: 8;
+    }
+    .but3_2{
+        grid-row: 8;
+    }
+    .but4_2{
+        grid-row: 8;
+    }
+    .but1_3{
+        grid-row: 8;
+    }
+    .but2_3{
+        grid-row: 8;
+    }
+    .but4_3{
+        grid-row: 8;
+    }
+    .but1_4{
+        grid-row: 8;
+    }
+    .but2_4{
+        grid-row: 8;
+    }
+    .but3_4{
+        grid-row: 8;
+    }
+}
+@media (max-width: 320px) {
+    button {
+        font-size: 5px;
+      }
+    .theme1 {
+        font-size: 38px;
+    }
+    .theme2 {
+        font-size: 38px;
+    }
+    .theme3 {
+        font-size: 38px;
+    }
+    .theme4 {
+        font-size: 38px;
+    }
+}

@@ -1,4 +1,5 @@
 import './App.css';
+import './Responsive.css'
 import ExactTime from './components/ExactTime';
 
 function App() {
