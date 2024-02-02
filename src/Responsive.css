@@ -67,56 +67,84 @@
     }
     .but1{
         grid-row: 8;
+        grid-column: 2;
+        width: 70px;
     }
     .but2{
         grid-row: 8;
+        grid-column: 4;
+        width: 70px;
     }
     .but3{
         grid-row: 8;
+        width: 70px;
     }
     .but4{
         grid-row: 8;
+        grid-column: 8;
+        width: 70px;
     }
     .but2_1{
         grid-row: 8;
+        grid-column: 4;
+        width: 70px;
     }
     .but3_1{
         grid-row: 8;
+        width: 70px;
     }
     .but4_1{
         grid-row: 8;
+        grid-column: 8;
+        width: 70px;
     }
     .but1_2{
         grid-row: 8;
+        grid-column: 2;
+        width: 70px;
     }
     .but3_2{
         grid-row: 8;
+        width: 70px;
     }
     .but4_2{
         grid-row: 8;
+        grid-column: 8;
+        width: 70px;
     }
     .but1_3{
         grid-row: 8;
+        grid-column: 2;
+        width: 70px;
     }
     .but2_3{
         grid-row: 8;
+        grid-column: 4;
+        width: 70px;
     }
     .but4_3{
         grid-row: 8;
+        grid-column: 8;
+        width: 70px;
     }
     .but1_4{
         grid-row: 8;
+        grid-column: 2;
+        width: 70px;
     }
     .but2_4{
         grid-row: 8;
+        grid-column: 4;
+        width: 70px;
     }
     .but3_4{
         grid-row: 8;
+        width: 70px;
     }
 }
-@media (max-width: 320px) {
+@media (max-width: 370px) {
     button {
-        font-size: 5px;
+        font-size: 8px;
       }
     .theme1 {
         font-size: 38px;
@@ -130,4 +158,81 @@
     .theme4 {
         font-size: 38px;
     }
+    .but1{
+        grid-row: 8;
+        grid-column: 2;
+        width: 50px;
+    }
+    .but2{
+        grid-row: 8;
+        grid-column: 4;
+        width: 50px;
+    }
+    .but3{
+        grid-row: 8;
+        width: 50px;
+    }
+    .but4{
+        grid-row: 8;
+        grid-column: 8;
+        width: 50px;
+    }
+    .but2_1{
+        grid-row: 8;
+        grid-column: 4;
+        width: 50px;
+    }
+    .but3_1{
+        grid-row: 8;
+        width: 50px;
+    }
+    .but4_1{
+        grid-row: 8;
+        grid-column: 8;
+        width: 50px;
+    }
+    .but1_2{
+        grid-row: 8;
+        grid-column: 2;
+        width: 50px;
+    }
+    .but3_2{
+        grid-row: 8;
+        width: 50px;
+    }
+    .but4_2{
+        grid-row: 8;
+        grid-column: 8;
+        width: 50px;
+    }
+    .but1_3{
+        grid-row: 8;
+        grid-column: 2;
+        width: 50px;
+    }
+    .but2_3{
+        grid-row: 8;
+        grid-column: 4;
+        width: 50px;
+    }
+    .but4_3{
+        grid-row: 8;
+        grid-column: 8;
+        width: 50px;
+    }
+    .but1_4{
+        grid-row: 8;
+        grid-column: 2;
+        width: 50px;
+    }
+    .but2_4{
+        grid-row: 8;
+        grid-column: 4;
+        width: 50px;
+    }
+    .but3_4{
+        grid-row: 8;
+        width: 50px;
+    }
 }
+
